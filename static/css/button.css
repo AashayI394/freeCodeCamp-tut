@@ -1,0 +1,18 @@
+.btn-group button{
+
+  font-family: 'Comic Sans MS';
+  font-weight: bold;
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  background-color: rosybrown; /* Green background */
+  border: 1px solid green; /* Green border */
+  display: block; /* flex display */
+  margin: 10px auto; /* 10px top and bottom margin, auto left and right margin */
+}
+
+footer {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(100,10,90);
+  font-style: italic;
+}
